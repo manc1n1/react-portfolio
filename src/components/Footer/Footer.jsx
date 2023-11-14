@@ -46,7 +46,6 @@ export default function Footer() {
 					<FaStackOverflow />
 				</a>
 			</div>
-			div
 		</footer>
 	);
 }
